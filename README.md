@@ -2,12 +2,14 @@
 <img src="https://github.com/AnalyticalGraphicsInc/cesium/wiki/logos/Cesium_Logo_Color.jpg" width="50%" />
 </p>
 
-[![Build Status](https://travis-ci.org/AnalyticalGraphicsInc/cesium.svg?branch=master)](https://travis-ci.org/AnalyticalGraphicsInc/cesium)&nbsp;
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
-
 Cesium is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
 
 http://cesiumjs.org/
+
+### Screenshot ###
+<p align="center">
+<img src="https://github.com/molson194/Globe/blob/master/Screenshot.png" width="50%" />
+</p>
 
 ### Get Started ###
 
@@ -16,21 +18,7 @@ Visit the [Downloads page](http://cesiumjs.org/downloads.html) or use the npm mo
 npm install cesium
 ```
 
-Have questions?  Ask them on the [forum](http://cesiumjs.org/forum.html).
-
-Interested in contributing?  See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-### Mission ###
-
-Our mission is to create the leading 3D globe and map for static and time-dynamic content, with the best possible performance, precision, visual quality, platform support, community, and ease of use.
-
-### License ###
-
-[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).  Cesium is free for both commercial and non-commercial use.
-
-We appreciate attribution by including the Cesium logo and link in your app.
-
-### Featured Demos ###
+### Demos ###
 
 <p align="center">
 <a href="http://cesiumjs.org/demos/NewYork.html"><img src="http://cesiumjs.org/demos/images/nyc.png" height="150" /></a>&nbsp;
@@ -41,11 +29,6 @@ We appreciate attribution by including the Cesium logo and link in your app.
 <a href="http://cesiumjs.org/Cesium/demos/VestaTrek.html"><img src="http://cesiumjs.org/demos/images/VestaTrek.png" height="150" /></a>&nbsp;
 <a href="http://cesiumjs.org/demos/CyberCity3D.html"><img src="http://cesiumjs.org/demos/images/CyberCity.png" height="150" /></a>&nbsp;
 <a href="http://cesiumjs.org/demos/GEFSonline.html"><img src="http://cesiumjs.org/demos/images/GEFS.jpg" height="150" /></a>&nbsp;
-</p>
-
-### Demos ###
-
-<p align="center">
 <a href="http://cesiumjs.org/demos/Citisens.html"><img src="http://cesiumjs.org/demos/images/citisens.jpg" height="150" /></a>&nbsp;
 <a href="http://cesiumjs.org/demos/ParalogPerformance.html"><img src="http://cesiumjs.org/demos/images/ParalogPerformance.jpg" height="150" /></a>&nbsp;
 <a href="http://cesiumjs.org/demos/FlightClub.html"><img src="http://cesiumjs.org/demos/images/FlightClub.jpg" height="150" /></a>&nbsp;
